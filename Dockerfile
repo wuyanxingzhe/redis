@@ -1,1 +1,1 @@
-FROM bitnami/redis-cluster:7.2.5-debian-12-r0
+FROM bitnami/redis:6.2.7-debian-10-r23
